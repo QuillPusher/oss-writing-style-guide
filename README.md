@@ -5,13 +5,17 @@
 
 An open source technical writing style guide for software teams.
 
-**`oss-writing-style-guide.md`** is the main document. It covers voice, editing someone else's text, sentences, talking to the reader, grammar checks, capitalization, terminology, writing about product behavior, UI text, documentation (including release notes, API reference, and code samples), numbers, punctuation, inclusive language, global readers, text that sounds machine-written, and how to review a draft, with examples.
-
-The guide is generic. Examples use a fictional project-and-task app, and no company's internal terminology appears. The guide uses US English.
+**`oss-writing-style-guide.md`** covers voice, editing someone else's text, sentences, talking to the reader, grammar checks, capitalization, terminology, writing about product behavior, UI text, documentation (including release notes, API reference, and code samples), numbers, punctuation, inclusive language, global readers, text that sounds machine-written, and how to review a draft, with examples.
 
 ## Use the guide
 
-Read [Voice](oss-writing-style-guide.md#voice) and [The short version](oss-writing-style-guide.md#the-short-version) first. They cover most edits. Look up the rest when a question comes up.
+### Use as an AI agent skill
+
+ Use the [OSS Writing Style Skill](https://github.com/QuillPusher/skills/tree/main/oss-writing-style) with your AI Agent to directly incorporate these rules in your documents or product UI text. 
+ 
+### Use as a human reviewer
+
+ To understand and apply style rules by hand, read [Voice](oss-writing-style-guide.md#voice) and [The short version](oss-writing-style-guide.md#the-short-version) first. They cover most edits. Look up the rest when a question comes up.
 
 To adopt the guide for your team, fork it and fill in the two template tables under [Terminology](oss-writing-style-guide.md#terminology): your product names and the third-party brands you write about. Some rules are house choices rather than grammar (sentence case, no em dashes, no semicolons, _select_ rather than _click_). If your team decides differently, change the rule in your fork and keep a short note of what you changed, so you can pull in later versions of the guide without losing your decisions.
 
