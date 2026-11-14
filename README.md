@@ -19,23 +19,12 @@ An open source technical writing style guide for software teams.
 
 To adopt the guide for your team, fork it and fill in the two template tables under [Terminology](oss-writing-style-guide.md#terminology): your product names and the third-party brands you write about. Some rules are house choices rather than grammar (sentence case, no em dashes, no semicolons, _select_ rather than _click_). If your team decides differently, change the rule in your fork and keep a short note of what you changed, so you can pull in later versions of the guide without losing your decisions.
 
-## Contribute
-
-It's an open project, and suggestions are welcome. If you find a gap, a mistake, or a better way to say something, open an issue so everyone benefits. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-- Keep it generic. Don't add company product names, internal terminology, customer data, or examples from a real product.
-- Write any new example from scratch. Don't copy examples or wording from another published style guide.
-- Follow the guide in your own changes: sentence case, no em dashes, no semicolons.
-- Add a **Limit** line to any rule that could change a fact if applied too broadly.
-- Keep the guide tool-neutral, so it works in any editor and on any operating system.
-- By contributing, you agree that your contribution is released under the MIT License, and that you wrote it yourself.
-
 ## License
 
 This project is released under the [MIT License](LICENSE). Use it, copy it, change it, and build on it for any purpose, personal or commercial. Keep the copyright and permission notice with copies you share.
 
 ## Acknowledgments and disclaimer
 
-This guide was inspired by the _Microsoft Writing Style Guide._ All text and examples here are original and written for this project. No copyright infringement is intended. Care has been taken to keep this guide generic and accessible to the general public, so anyone can collaborate on it and improve it over time.
+This guide draws on the _Microsoft Writing Style Guide_ and _The Elements of Style by Strunk and White_, plus my own technical writing experience. No text from either work is reproduced here. No copyright infringement is intended. All text and examples are original and written for this project. I added my own taste and the guidance I use in practice. The guide stays generic and accessible on purpose, so anyone can fork it and improve it for their own use.
 
-Product and company names mentioned in this repository are trademarks or registered trademarks of their respective owners.
+> Product and company names mentioned in this repository are trademarks or registered trademarks of their respective owners.
