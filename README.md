@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# OSS Writing Style Guide
+# Open Source Writing Style Guide
 
 An open source technical writing style guide for software teams.
 
