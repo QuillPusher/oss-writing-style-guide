@@ -9,6 +9,10 @@ An open source technical writing style guide for software teams.
 
 ## Use the guide
 
+### As a CLI Tool
+
+[StyleBound](https://github.com/QuillPusher/stylebound) checks technical writing against a small set of plain-English rules. It exports the findings so that any person or agent can fix them. Then it verifies that no fact was lost. There is no AI inside the tool.
+
 ### Use as an AI agent skill
 
  Use the [OSS Writing Style Skill](https://github.com/QuillPusher/skills/tree/main/oss-writing-style) with your AI Agent to directly incorporate these rules in your documents or product UI text. 
